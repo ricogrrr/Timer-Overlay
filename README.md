@@ -30,7 +30,7 @@ python timer_overlay.py
 ### Hotkeys
 - **F5**: Start the timer
 - **F6**: Stop the timer
-- **F7**: Reset the timer to 00:00:00
+- **F7**: Reset the timer to 0.00
 
 ## Note
 The keyboard package might require administrator privileges on some systems to capture global hotkeys. 
