@@ -6,7 +6,7 @@ A simple transparent timer overlay that stays on top of other windows. The timer
 - Transparent green overlay
 - Always stays on top of other windows
 - Hotkey controls
-- Hours:Minutes:Seconds display format
+- Hours:Minutes:Seconds:MiliSeconds display format
 
 ## Requirements
 - Python 3.x
